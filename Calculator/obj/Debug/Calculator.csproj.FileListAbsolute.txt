@@ -1,0 +1,6 @@
+D:\22.11.4817\Semester 2\Calcolator\Calcolator\bin\Debug\Calcolator.exe.config
+D:\22.11.4817\Semester 2\Calcolator\Calcolator\bin\Debug\Calcolator.exe
+D:\22.11.4817\Semester 2\Calcolator\Calcolator\bin\Debug\Calcolator.pdb
+D:\22.11.4817\Semester 2\Calcolator\Calcolator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\22.11.4817\Semester 2\Calcolator\Calcolator\obj\Debug\Calcolator.exe
+D:\22.11.4817\Semester 2\Calcolator\Calcolator\obj\Debug\Calcolator.pdb
